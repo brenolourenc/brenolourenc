@@ -1,13 +1,12 @@
-### Welcome to my github profile 👋
+### Bem-vindo ao meu perfil do GitHub 👋
 
 <div>
   <a href="https://github.com/breno05s">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=breno05s&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno05s&theme=merko"/>
   </a>
 </div>
 <br>
-- 📚 I have experience with: 
+- 📚 Experiência com: 
 
 <div style="display: inline_block">
   <img alt="Icone Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -18,14 +17,14 @@
   <img alt="Icone Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 <br>
-- 📝 I’m currently learning: 
+- 📝 Atualmente aprendendo: 
 
 <div style="display: inline_block">
   <img alt="Icone NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Icone MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br>
-- 📫 How to contact me: 
+- 📫 Contato: 
 
 <div style="display: inline_block">
   <a href="mailto: breno.info002@gmail.com">
