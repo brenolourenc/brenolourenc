@@ -5,10 +5,12 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=breno05s&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
   </a>
   <a href="https://github.com/breno05s">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno05s&theme=blue-green"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno05s&theme=merko"/>
   </a>
 </div>
 <br>
+
+<h3>🌐 Veja meu <a href="https://portfolio-dogccctol-breno05s.vercel.app/">website e portfólio</a></h3>
 
 <h3>📚 Experiência com:</h3>
 
@@ -41,8 +43,6 @@
     <img alt="Contato pelo Linkedin" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<h3>🌐 Veja meu <a href="https://portfolio-dogccctol-breno05s.vercel.app/">website e portfólio</a></h3>
 <!-- - 🔭 I’m currently working on: Not.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
