@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil do GitHub 👋
+<h2>Bem-vindo ao meu perfil do GitHub 👋</h2>
 
 <div>
   <a href="https://github.com/breno05s">
