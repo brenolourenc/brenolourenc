@@ -1,8 +1,11 @@
 <h2>Bem-vindo ao meu perfil do GitHub 👋</h2>
 
-<div>
+<div style="display:flex;">
   <a href="https://github.com/breno05s">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=breno05s&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
+  </a>
+  <a href="https://github.com/breno05s">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno05s&theme=blue-green"/>
   </a>
 </div>
 <br>
@@ -24,7 +27,7 @@
   <img alt="Icone Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Icone TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="Icone Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Icone MySQL" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img alt="Icone MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br>
 
