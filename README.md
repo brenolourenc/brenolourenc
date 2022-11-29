@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<h3>🌐 Veja meu<a href="https://portfolio-dogccctol-breno05s.vercel.app/">website e portfólio</a></h3>
+<h3>🌐 Veja meu <a href="https://portfolio-dogccctol-breno05s.vercel.app/">website e portfólio</a></h3>
 <!-- - 🔭 I’m currently working on: Not.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
