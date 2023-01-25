@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<h3>🌐 Veja meu <a href="https://portfolio-hazel-one-49.vercel.app/">website e portfólio</a></h3>
+<h3> Veja meu <a href="https://portfolio-hazel-one-49.vercel.app/">website e portfólio</a></h3>
 
 <h3> Linguagens e Ferramentas:</h3>
 
@@ -23,7 +23,7 @@
   </div>
 <br>
 
-<h3>📫 Contato:</h3> 
+<h3> Contato:</h3> 
 
 <div style="display: inline_block">
   <a href="mailto: breno.info002@gmail.com">
