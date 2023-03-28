@@ -1,10 +1,10 @@
 <h2>Bem-vindo ao meu perfil do GitHub 👋</h2>
 
 <div style="display:flex;">
-  <a href="https://github.com/breno05s">
+  <a href="https://github.com/brenolourenc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenolourenc&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
   </a>
-  <a href="https://github.com/breno05s">
+  <a href="https://github.com/brenolourenc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolourenc&theme=merko"/>
   </a>
 </div>
